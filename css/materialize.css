@@ -1992,8 +1992,6 @@ a {
 
 ul {
   padding: 0; }
-  ul li {
-    list-style-type: none; }
 
 .clearfix {
   clear: both; }
@@ -4867,7 +4865,7 @@ span.badge {
       width: 100%;
       margin-left: 0; }
     .row .col.offset-s1 {
-      margin-left: 8.33333%; }
+      margin-left: 4.33333%; }
     .row .col.offset-s2 {
       margin-left: 16.66667%; }
     .row .col.offset-s3 {
