@@ -6,12 +6,20 @@ Sharing Dreams 2.0
 
 An crowdfunding platform for small projects of young creative brazilians.
 
-##Here is Sharing Dreams!
+* [Intro](#intro)
+* [Demo](#demo)
+* [Getting started](#start)
+* [F.A.Q](#faq)
+* [Contact](#contact)
+* [License](#license)
+
+<a name="intro"></a>##Here is Sharing Dreams!
 The idea came up when we had to remodel our old website. When we've thinked about making something that could help all the brazilian young, we thought that the money wasn't the most important part. Here, help counts, not necessarily just money.
 
-![Platform Preview](http://i.imgur.com/8no1KMP.gif)
+<a name="demo"></a>![Platform Preview](http://i.imgur.com/8no1KMP.gif)
+You can see this demo on http://sharingdreams.co/novo/index.html
 
-## Getting started
+## <a name="start"></a>Getting started
 
 ### Setup the project
 
@@ -22,10 +30,24 @@ The idea came up when we had to remodel our old website. When we've thinked abou
 * Enter project folder
 
         $ cd sharingdreams2
+        
+* Open index.html
 
 
-## License
+## <a name="faq"></a>F.A.Q
+* What frameworks Sharing Dreams use?
+        Sharing Dreams use MaterializeCSS framework (http://materializecss.com)
+
+## <a name="contact"></a>Contact
+* "Guilherme Vieira Rizzo" - Founder & Webdesigner <guivr2011@gmail.com>
+* "Leonardo Felipe Nerone" - Founder & Programmer <leonardofelipenerone@gmail.com>
+* "Thor Garcia" - Founder & Programmer <thor.fc21@gmail.com>
+* "Joao Vitor Sousa Escudero" - Founder & Programmer <joaovescudero@gmail.com>
+* "Nic Munhoz" - Help with the idea
+* "Felipe Fajardo" - Baked our host and takes care of marketing <felipetio123@gmail.com>
+
+## <a name="license"></a>License
 
 Copyright (c) 2011 Sharing Dreams
 
-Licensed under the MIT license (see MIT-LICENSE file)
+Licensed under the MIT license (see LICENSE file)
