@@ -37,8 +37,7 @@ You can see this demo on http://sharingdreams.co/novo/index.html
 
 ## <a name="faq"></a>F.A.Q
 * Do Sharing Dreams uses framworks?
-
-        Yes, it uses MaterializeCSS framework (http://materializecss.com).
+Yes, it uses MaterializeCSS framework (http://materializecss.com).
 
 ## <a name="contact"></a>Contact
 * "Guilherme Vieira Rizzo" - Founder & Webdesigner <guivr2011@gmail.com>
