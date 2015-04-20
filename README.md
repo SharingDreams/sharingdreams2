@@ -10,3 +10,22 @@ An crowdfunding platform for small projects of young creative brazilians.
 The idea came up when we had to remodel our old website. When we've thinked about making something that could help all the brazilian young, we thought that the money wasn't the most important part. Here, help counts, not necessarily just money.
 
 ![Platform Preview](http://i.imgur.com/8no1KMP.gif)
+
+## Getting started
+
+### Setup the project
+
+* Clone the project
+
+        $ git clone https://github.com/SharingDreams/sharingdreams2.git
+
+* Enter project folder
+
+        $ cd sharingdreams2
+
+
+## License
+
+Copyright (c) 2011 Sharing Dreams
+
+Licensed under the MIT license (see MIT-LICENSE file)
