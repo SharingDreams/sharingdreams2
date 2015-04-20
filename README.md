@@ -9,3 +9,4 @@ An crowdfunding platform for small projects of young creative brazilians.
 ##Here is Sharing Dreams!
 The idea came up when we had to remodel our old website. When we've thinked about making something that could help all the brazilian young, we thought that the money wasn't the most important part. Here, help counts, not necessarily just money.
 
+![Platform Preview](http://i.imgur.com/KDLXNTd.png)
