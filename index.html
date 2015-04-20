@@ -37,7 +37,7 @@
 					<div id="content-text">
 						<div class="col s12 m12 l12 white-text help center-align">
 							<h4 class="hide-on-small-only">Ajude jovens brasileiros a realizarem sonhos!</h4>
-							<h5 class="hide-on-med-and-up">Ajude jovens brasileiros a realizarem sonhos!</h5>
+							<h5 class="hide-on-med-and-up" id="banner-text-phone">Ajude jovens brasileiros a realizarem sonhos!</h5>
 							<input type="button" value="Navegar" class="center-align white-btn-black-text">
 						</div>
 					</div>
@@ -224,12 +224,15 @@
 						
 						// Resize image accordingly
 						$('#container').css({
-							'background-image' : 'url("https://ksr-ugc.imgix.net/projects/1513137/photo-original.jpg")', 
+							'background-color' : 'red', 
 							'background-size' : 'cover', 
 							'width' : $width+'px', 
-							'height' : $height+'px'
+							'height' : '15rem'
 						});
-						
+						$('#banner-text-phone').css({
+							'margin-top' : '-5rem'
+						});
+
 						// Hide video
 						$('video').hide();
 						
