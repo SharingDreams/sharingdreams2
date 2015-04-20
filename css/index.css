@@ -11,6 +11,18 @@
 	opacity:0.7;
 }
 
+#container{
+	position: relative;
+	overflow: hidden;
+}
+
+	#container .content .row #content-text{
+		position: absolute;
+		top: 0;
+		left: 0;
+		width:100%;
+	}
+
 section .row .help{
 	padding-top:8rem;
 	padding-bottom:8rem;
@@ -72,6 +84,7 @@ input{
     border-radius: 9px;
     -webkit-border-radius: 9px;
 }
+
 .campaign-card .card-content progress::-webkit-progress-value {
     background:#1e88e5;
     border-radius: 9px;
