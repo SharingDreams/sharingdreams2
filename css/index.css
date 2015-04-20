@@ -33,7 +33,7 @@ input{
 	-webkit-border-radius:5px;
 }
 
-#popular-campaigns .section-intro{
+.section-intro{
 	margin-top:3rem;
 }
 
@@ -58,5 +58,22 @@ input{
 }
 
 .campaign-card .card-content .rest b.right{
-	color: #ff7043;
+	color: #1e88e5;
+}
+
+.campaign-card .card-content progress{
+    border: 0;
+    height: 7px;
+    width:100%;
+}
+
+.campaign-card .card-content progress::-webkit-progress-bar {
+    background:#e0e0e0;
+    border-radius: 9px;
+    -webkit-border-radius: 9px;
+}
+.campaign-card .card-content progress::-webkit-progress-value {
+    background:#1e88e5;
+    border-radius: 9px;
+    -webkit-border-radius: 9px;
 }
