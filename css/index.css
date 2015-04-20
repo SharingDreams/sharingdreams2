@@ -98,6 +98,7 @@ input{
 	background: white;
 	position: relative;
 	display: inline-block;
+	width:100%;
 }
 
 #popular-campaigns{
